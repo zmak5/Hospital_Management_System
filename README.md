@@ -47,7 +47,7 @@ Our team consists of six active members who collaborated on this project:
 - **Jonathan OUEDRAOGO** - Data Population, Testing & Quality Assurance
 - **Betsaleel NACOULMA** - Video Production, Recording & Editing
 
-**Note:** Keya BASSINGA, our seventh team member, was unable to participate in the project due to health reasons. We wish him a speedy recovery. His assigned tasks were redistributed among the remaining team members to ensure project completion.
+**Note:** Keya BASSINGA, our seventh team member, was unable to participate in the project due to health reasons. We wish her a speedy recovery. His assigned tasks were redistributed among the remaining team members to ensure project completion.
 
 ---
 
@@ -693,7 +693,7 @@ We would like to thank:
 - **Professor Kweyakie Afi Blebo** for her guidance, patience, and comprehensive teaching throughout the semester
 - **Burkina Institute of Technology** for providing the resources and environment for this project
 - **Our classmates** for their feedback and support during development
-- **Keya BASSINGA** (our seventh team member) - though unable to participate due to health reasons, we acknowledge his commitment to the team and wish him well
+- **Keya BASSINGA** (our seventh team member) - though unable to participate due to health reasons, we acknowledge her commitment to the team and wish her well
 
 ---
 
